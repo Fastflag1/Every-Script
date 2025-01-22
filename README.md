@@ -27,6 +27,10 @@ Push the limits of what’s possible in any game you play! 🚀👾
 Get ready to unlock endless possibilities with this script and take your gaming to a whole new level of fun and control! 🖥️💡
 
 
+📥 How to Download the File
+If you want to download the script file, simply click on this link. This will initiate the download of the file.
+
+
 
 
 
