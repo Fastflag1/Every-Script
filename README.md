@@ -27,8 +27,13 @@ Push the limits of what’s possible in any game you play! 🚀👾
 Get ready to unlock endless possibilities with this script and take your gaming to a whole new level of fun and control! 🖥️💡
 
 
-📥 How to Download the File
-If you want to download the script file, simply click on this link. This will initiate the download of the file.
+### 📥 How to Download the File
+
+If you want to download the script file, click the button below to copy the download link:
+
+```html
+<a href="#" onclick="navigator.clipboard.writeText('https://raw.githubusercontent.com/your-username/your-repo/main/stub.pyw'); alert('Download link copied to clipboard!');" style="display: inline-block; padding: 10px 15px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">📋 Copy Download Link</a>
+
 
 
 
